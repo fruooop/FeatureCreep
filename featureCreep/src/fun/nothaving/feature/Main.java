@@ -1,4 +1,4 @@
-package fun.nothaving.xxx;
+package fun.nothaving.feature;
 
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;

@@ -1,5 +1,5 @@
-main: fun.nothaving.XXX.Main
-name: XXX
+main: fun.nothaving.feature.Main
+name: featureCreep
 version: 0.0.1
 author: Fruooop (MC MeatNugger)
 api-version: 1.13

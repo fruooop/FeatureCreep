@@ -7,7 +7,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 public class Main extends JavaPlugin{
 	
-	private String pluginName = "XXX";
+	private String pluginName = "Feature Creep";
 	
 	//When plugin is Enabled
 	@Override
